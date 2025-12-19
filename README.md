@@ -27,7 +27,8 @@ Building a consistent and authentic digital identity across platforms.
 - Crunchbase: https://www.crunchbase.com/person/shahriyar-razin-shams  
 
 ### 💻 Developer / Tech
-- GitHub: https://github.com/shahriyarrazinshams  
+- GitHub: https://github.com/shahriyarrazinshams
+- Dev.to: https://dev.to/shahriyarrazinshams  
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shahriyar Razin Shams
+# 👋 Hi, I’m Shahriyar Razin Shams (শাহরিয়ার রাজিন শামস্)
 
 Bangladeshi digital creator and blogger focused on technology, science, photography, and personal growth.  
 Building a consistent and authentic digital identity across platforms.

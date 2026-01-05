@@ -12,7 +12,7 @@ Building a consistent and authentic digital identity across platforms.
 - Medium: https://medium.com/@ShahriyarRazinShams  
 
 ### 📸 Social Media
-- Instagram: https://www.instagram.com/shams_0878  
+- Instagram: https://www.instagram.com/shahriyarrazinshams  
 - Threads: https://www.threads.com/@shams_0878  
 - X (Twitter): https://x.com/Sha_ms07  
 - Facebook: https://www.facebook.com/profile.php?id=100089845650883  

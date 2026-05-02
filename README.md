@@ -1,11 +1,7 @@
-<h1 align="center">Redirecting...</h1>
+# 🚀 Redirecting...
 
-<p align="center">
-  <a href="https://shahriyarrazinshams.github.io/shams/">
-    Click here if not redirected
-  </a>
-</p>
+👉 [Click here to enter my official website](https://shahriyarrazinshams.github.io/shams/)
 
-<script>
-  window.location.href = "https://shahriyarrazinshams.github.io/shams/";
-</script>
+---
+
+![Visit Now](https://img.shields.io/badge/ENTER-WEBSITE-blue?style=for-the-badge&logo=google-chrome)

@@ -1,7 +1,1 @@
-# 🚀 Redirecting...
-
-👉 [Click here to enter my official website](https://shahriyarrazinshams.github.io/shams/)
-
----
-
-![Visit Now](https://img.shields.io/badge/ENTER-WEBSITE-blue?style=for-the-badge&logo=google-chrome)
+[![Enter Site](https://i.ibb.co/7xpsKtVc/IMG-20251011-175206-060.jpg)](https://shahriyarrazinshams.github.io/shams/)
